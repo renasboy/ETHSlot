@@ -1,2 +1,2 @@
-# ETHSlot
-Ethereum Classic Triple Slot Game
+# ETHDice
+Ethereum Dice Game
